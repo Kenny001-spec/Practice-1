@@ -1,0 +1,78 @@
+
+h2 {
+    font-size: 85px;
+    color: chartreuse;
+    text-transform: lowercase;
+    background-color: coral;
+}
+
+
+
+body {
+    background-color: darkcyan;
+}
+
+h1 {
+    font: size 55px;
+    background-color: darkcyan;
+    color: darkgoldenrod;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 55px;
+    background-color: darkslategrey;
+    color: darkviolet;
+    
+
+}
+
+
+span{
+    background-color: burlywood;
+    color: rgb(71, 94, 71) black;
+    border-bottom: 2px solid cornflowerblue;
+    border-top: 2px solid crimson ;
+    border-radius: 20px;
+} 
+
+.bigBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: cyan;
+    padding: 30px 25px 20px ;
+}
+
+.smallBox {
+    background-color: snow;
+    border-radius:20px;
+    text-align: center;
+    font-size: 50px; 
+    padding: 50px 40px 40px 50px;
+    
+    
+}
+
+.smallBox h4 {
+    text-transform: uppercase;
+    color: teal;
+    text-align:center;
+    text-decoration: tomato;
+
+}
+
+.smallBox p {
+    background-color: blue;
+    color: chocolate;
+}
+    
+
+    .smallBox img {
+        width: 220px;
+        height: 220px;
+        border-radius: 50%;
+    }
+
+    
+    
